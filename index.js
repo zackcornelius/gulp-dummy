@@ -1,6 +1,6 @@
 
 module.exports = {
-  registry: () => { return undefined },
   task: () => { return undefined },
+  registry: () => { return { tasks: () => { return { 'dummy': () => {} } } } },
   series: () => { return undefined }
 }

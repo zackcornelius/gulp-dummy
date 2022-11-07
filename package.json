@@ -1,0 +1,11 @@
+{
+  "name": "gulp",
+  "version": "4.99.99",
+  "description": "Dummy package to stub out gulp in an ionic v1 application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Security Enhancement Systems",
+  "license": "UNLICENSED"
+}
